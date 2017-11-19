@@ -1,0 +1,186 @@
+< 2017-11-19 05:06:41.381 EST > LOG:  database system was shut down at 2017-11-19 05:05:39 EST
+< 2017-11-19 05:06:41.389 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:06:41.394 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:06:41.394 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:12:10.907 EST > FATAL:  role "root" does not exist
+< 2017-11-19 05:15:20.039 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:15:20.040 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:15:20.042 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:15:20.043 EST > LOG:  shutting down
+< 2017-11-19 05:15:20.170 EST > LOG:  database system is shut down
+< 2017-11-19 05:15:45.602 EST > LOG:  database system was shut down at 2017-11-19 05:15:20 EST
+< 2017-11-19 05:15:45.678 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:15:45.681 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:15:45.683 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:17:13.933 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:17:13.934 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:17:13.935 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:17:13.952 EST > LOG:  shutting down
+< 2017-11-19 05:17:14.010 EST > LOG:  database system is shut down
+< 2017-11-19 05:19:03.297 EST > LOG:  database system was interrupted; last known up at 2017-11-19 05:17:40 EST
+< 2017-11-19 05:19:03.583 EST > LOG:  database system was not properly shut down; automatic recovery in progress
+< 2017-11-19 05:19:03.589 EST > LOG:  invalid record length at 0/155C1C0: wanted 24, got 0
+< 2017-11-19 05:19:03.589 EST > LOG:  redo is not required
+< 2017-11-19 05:19:03.594 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:19:03.597 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:19:03.599 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:24:38.765 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:24:38.767 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:24:38.776 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:24:38.777 EST > LOG:  shutting down
+< 2017-11-19 05:24:38.819 EST > LOG:  database system is shut down
+< 2017-11-19 05:25:04.904 EST > LOG:  database system was shut down at 2017-11-19 05:24:38 EST
+< 2017-11-19 05:25:04.974 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:25:04.976 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:25:04.977 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:28:07.751 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:28:07.752 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:28:07.753 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:28:07.754 EST > LOG:  shutting down
+< 2017-11-19 05:28:07.770 EST > LOG:  database system is shut down
+< 2017-11-19 05:28:07.809 EST > LOG:  database system was shut down at 2017-11-19 05:28:07 EST
+< 2017-11-19 05:28:07.811 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:28:07.813 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:28:07.813 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:31:05.894 EST > ERROR:  syntax error at or near "table1" at character 8
+< 2017-11-19 05:31:05.894 EST > STATEMENT:  insert table1 1;
+< 2017-11-19 05:35:03.817 EST > ERROR:  syntax error at or near "exit" at character 1
+< 2017-11-19 05:35:03.817 EST > STATEMENT:  exit
+	;
+< 2017-11-19 05:43:14.128 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:43:14.129 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:43:14.130 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:43:14.132 EST > LOG:  shutting down
+< 2017-11-19 05:43:14.147 EST > LOG:  database system is shut down
+< 2017-11-19 05:43:14.196 EST > LOG:  database system was shut down at 2017-11-19 05:43:14 EST
+< 2017-11-19 05:43:14.198 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:43:14.201 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:43:14.201 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:43:57.645 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:43:57.646 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:43:57.646 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:43:57.649 EST > LOG:  shutting down
+< 2017-11-19 05:43:57.666 EST > LOG:  database system is shut down
+< 2017-11-19 05:43:57.710 EST > LOG:  database system was shut down at 2017-11-19 05:43:57 EST
+< 2017-11-19 05:43:57.712 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:43:57.713 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:43:57.715 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:47:40.849 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:47:40.849 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:47:40.849 EST > DETAIL:  Connection matched pg_hba.conf line 90: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:48:32.331 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:48:32.332 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:48:32.332 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:48:32.336 EST > LOG:  shutting down
+< 2017-11-19 05:48:32.352 EST > LOG:  database system is shut down
+< 2017-11-19 05:48:32.393 EST > LOG:  database system was shut down at 2017-11-19 05:48:32 EST
+< 2017-11-19 05:48:32.397 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:48:32.401 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:48:32.402 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:48:35.083 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:48:35.083 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:48:35.083 EST > DETAIL:  Connection matched pg_hba.conf line 91: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:54:36.383 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:54:36.384 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:54:36.384 EST > DETAIL:  Connection matched pg_hba.conf line 91: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:56:08.958 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:56:08.959 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:56:08.961 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:56:08.964 EST > LOG:  shutting down
+< 2017-11-19 05:56:08.977 EST > LOG:  database system is shut down
+< 2017-11-19 05:56:09.017 EST > LOG:  database system was shut down at 2017-11-19 05:56:08 EST
+< 2017-11-19 05:56:09.018 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:56:09.020 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:56:09.021 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:56:11.932 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:56:11.932 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:56:11.932 EST > DETAIL:  Connection matched pg_hba.conf line 92: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:57:38.766 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:57:38.767 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:57:38.767 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:57:38.773 EST > LOG:  shutting down
+< 2017-11-19 05:57:38.787 EST > LOG:  database system is shut down
+< 2017-11-19 05:57:38.816 EST > LOG:  database system was shut down at 2017-11-19 05:57:38 EST
+< 2017-11-19 05:57:38.817 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:57:38.819 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:57:38.819 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:57:46.172 EST > FATAL:  password authentication failed for user "postgres"
+< 2017-11-19 05:57:46.172 EST > DETAIL:  Password does not match for user "postgres".
+	Connection matched pg_hba.conf line 87: "host    replication      postgres       192.168.1.0/24            md5"
+< 2017-11-19 06:01:01.526 EST > LOG:  database system was interrupted; last known up at 2017-11-19 05:58:43 EST
+< 2017-11-19 06:01:01.749 EST > LOG:  entering standby mode
+< 2017-11-19 06:01:01.750 EST > LOG:  redo starts at 0/4000060
+< 2017-11-19 06:01:01.751 EST > LOG:  consistent recovery state reached at 0/4000130
+< 2017-11-19 06:01:01.752 EST > LOG:  database system is ready to accept read only connections
+< 2017-11-19 06:01:01.760 EST > LOG:  started streaming WAL from primary at 0/5000000 on timeline 1
+< 2017-11-19 06:01:18.237 EST > FATAL:  database "test1" does not exist
+< 2017-11-19 06:11:03.503 EST > LOG:  replication terminated by primary server
+< 2017-11-19 06:11:03.503 EST > DETAIL:  End of WAL reached on timeline 1 at 0/5000540.
+< 2017-11-19 06:11:03.504 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 06:11:03.504 EST > LOG:  invalid record length at 0/5000540: wanted 24, got 0
+< 2017-11-19 06:11:03.509 EST > FATAL:  could not connect to the primary server: could not connect to server: Connection refused
+		Is the server running on host "192.168.1.71" and accepting
+		TCP/IP connections on port 5432?
+	
+< 2017-11-19 06:11:08.528 EST > LOG:  started streaming WAL from primary at 0/5000000 on timeline 1
+< 2017-11-19 06:48:49.121 EST > LOG:  replication terminated by primary server
+< 2017-11-19 06:48:49.121 EST > DETAIL:  End of WAL reached on timeline 1 at 0/6000098.
+< 2017-11-19 06:48:49.121 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 06:48:49.121 EST > LOG:  invalid record length at 0/6000098: wanted 24, got 0
+< 2017-11-19 06:48:49.133 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 06:49:25.203 EST > LOG:  started streaming WAL from primary at 0/6000000 on timeline 1
+< 2017-11-19 06:52:20.420 EST > LOG:  replication terminated by primary server
+< 2017-11-19 06:52:20.420 EST > DETAIL:  End of WAL reached on timeline 1 at 0/7000098.
+< 2017-11-19 06:52:20.420 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 06:52:20.421 EST > LOG:  invalid record length at 0/7000098: wanted 24, got 0
+< 2017-11-19 06:52:20.425 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 06:52:25.451 EST > LOG:  started streaming WAL from primary at 0/7000000 on timeline 1
+< 2017-11-19 07:02:23.476 EST > LOG:  replication terminated by primary server
+< 2017-11-19 07:02:23.476 EST > DETAIL:  End of WAL reached on timeline 1 at 0/8000098.
+< 2017-11-19 07:02:23.476 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 07:02:23.476 EST > LOG:  invalid record length at 0/8000098: wanted 24, got 0
+< 2017-11-19 07:02:23.481 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 07:02:28.498 EST > LOG:  started streaming WAL from primary at 0/8000000 on timeline 1
+< 2017-11-19 07:24:17.266 EST > LOG:  replication terminated by primary server
+< 2017-11-19 07:24:17.266 EST > DETAIL:  End of WAL reached on timeline 1 at 0/B000098.
+< 2017-11-19 07:24:17.266 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 07:24:17.268 EST > LOG:  invalid record length at 0/B000098: wanted 24, got 0
+< 2017-11-19 07:24:17.284 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 07:24:22.293 EST > LOG:  started streaming WAL from primary at 0/B000000 on timeline 1
+< 2017-11-19 07:27:46.861 EST > LOG:  replication terminated by primary server
+< 2017-11-19 07:27:46.861 EST > DETAIL:  End of WAL reached on timeline 1 at 0/D000098.
+< 2017-11-19 07:27:46.864 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 07:27:46.866 EST > LOG:  invalid record length at 0/D000098: wanted 24, got 0
+< 2017-11-19 07:27:46.870 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 07:27:51.890 EST > LOG:  started streaming WAL from primary at 0/D000000 on timeline 1
+< 2017-11-19 07:29:40.462 EST > LOG:  received fast shutdown request
+< 2017-11-19 07:29:40.463 EST > LOG:  aborting any active transactions
+< 2017-11-19 07:29:40.475 EST > FATAL:  terminating walreceiver process due to administrator command
+< 2017-11-19 07:29:40.484 EST > LOG:  shutting down
+< 2017-11-19 07:29:40.495 EST > LOG:  database system is shut down
+< 2017-11-19 07:29:56.463 EST > LOG:  database system was shut down in recovery at 2017-11-19 07:29:40 EST
+< 2017-11-19 07:29:56.491 EST > LOG:  entering standby mode
+< 2017-11-19 07:29:56.495 EST > LOG:  consistent recovery state reached at 0/D000098
+< 2017-11-19 07:29:56.495 EST > LOG:  redo starts at 0/D000098
+< 2017-11-19 07:29:56.495 EST > LOG:  invalid record length at 0/D0000D0: wanted 24, got 0
+< 2017-11-19 07:29:56.496 EST > LOG:  database system is ready to accept read only connections
+< 2017-11-19 07:29:56.511 EST > LOG:  started streaming WAL from primary at 0/D000000 on timeline 1
+< 2017-11-19 07:30:07.894 EST > LOG:  replication terminated by primary server
+< 2017-11-19 07:30:07.894 EST > DETAIL:  End of WAL reached on timeline 1 at 0/E000098.
+< 2017-11-19 07:30:07.894 EST > FATAL:  could not send end-of-streaming message to primary: no COPY in progress
+	
+< 2017-11-19 07:30:07.894 EST > LOG:  invalid record length at 0/E000098: wanted 24, got 0
+< 2017-11-19 07:30:07.899 EST > FATAL:  could not connect to the primary server: FATAL:  the database system is shutting down
+	
+< 2017-11-19 07:30:12.919 EST > LOG:  started streaming WAL from primary at 0/E000000 on timeline 1

@@ -1,0 +1,764 @@
+< 2017-11-19 05:06:41.381 EST > LOG:  database system was shut down at 2017-11-19 05:05:39 EST
+< 2017-11-19 05:06:41.389 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:06:41.394 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:06:41.394 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:12:10.907 EST > FATAL:  role "root" does not exist
+< 2017-11-19 05:15:20.039 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:15:20.040 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:15:20.042 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:15:20.043 EST > LOG:  shutting down
+< 2017-11-19 05:15:20.170 EST > LOG:  database system is shut down
+< 2017-11-19 05:15:45.602 EST > LOG:  database system was shut down at 2017-11-19 05:15:20 EST
+< 2017-11-19 05:15:45.678 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:15:45.681 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:15:45.683 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:17:13.933 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:17:13.934 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:17:13.935 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:17:13.952 EST > LOG:  shutting down
+< 2017-11-19 05:17:14.010 EST > LOG:  database system is shut down
+< 2017-11-19 05:19:03.297 EST > LOG:  database system was interrupted; last known up at 2017-11-19 05:17:40 EST
+< 2017-11-19 05:19:03.583 EST > LOG:  database system was not properly shut down; automatic recovery in progress
+< 2017-11-19 05:19:03.589 EST > LOG:  invalid record length at 0/155C1C0: wanted 24, got 0
+< 2017-11-19 05:19:03.589 EST > LOG:  redo is not required
+< 2017-11-19 05:19:03.594 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:19:03.597 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:19:03.599 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:24:38.765 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:24:38.767 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:24:38.776 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:24:38.777 EST > LOG:  shutting down
+< 2017-11-19 05:24:38.819 EST > LOG:  database system is shut down
+< 2017-11-19 05:25:04.904 EST > LOG:  database system was shut down at 2017-11-19 05:24:38 EST
+< 2017-11-19 05:25:04.974 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:25:04.976 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:25:04.977 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:28:07.751 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:28:07.752 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:28:07.753 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:28:07.754 EST > LOG:  shutting down
+< 2017-11-19 05:28:07.770 EST > LOG:  database system is shut down
+< 2017-11-19 05:28:07.809 EST > LOG:  database system was shut down at 2017-11-19 05:28:07 EST
+< 2017-11-19 05:28:07.811 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:28:07.813 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:28:07.813 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:31:05.894 EST > ERROR:  syntax error at or near "table1" at character 8
+< 2017-11-19 05:31:05.894 EST > STATEMENT:  insert table1 1;
+< 2017-11-19 05:35:03.817 EST > ERROR:  syntax error at or near "exit" at character 1
+< 2017-11-19 05:35:03.817 EST > STATEMENT:  exit
+	;
+< 2017-11-19 05:43:14.128 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:43:14.129 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:43:14.130 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:43:14.132 EST > LOG:  shutting down
+< 2017-11-19 05:43:14.147 EST > LOG:  database system is shut down
+< 2017-11-19 05:43:14.196 EST > LOG:  database system was shut down at 2017-11-19 05:43:14 EST
+< 2017-11-19 05:43:14.198 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:43:14.201 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:43:14.201 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:43:57.645 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:43:57.646 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:43:57.646 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:43:57.649 EST > LOG:  shutting down
+< 2017-11-19 05:43:57.666 EST > LOG:  database system is shut down
+< 2017-11-19 05:43:57.710 EST > LOG:  database system was shut down at 2017-11-19 05:43:57 EST
+< 2017-11-19 05:43:57.712 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:43:57.713 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:43:57.715 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:47:40.849 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:47:40.849 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:47:40.849 EST > DETAIL:  Connection matched pg_hba.conf line 90: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:48:32.331 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:48:32.332 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:48:32.332 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:48:32.336 EST > LOG:  shutting down
+< 2017-11-19 05:48:32.352 EST > LOG:  database system is shut down
+< 2017-11-19 05:48:32.393 EST > LOG:  database system was shut down at 2017-11-19 05:48:32 EST
+< 2017-11-19 05:48:32.397 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:48:32.401 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:48:32.402 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:48:35.083 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:48:35.083 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:48:35.083 EST > DETAIL:  Connection matched pg_hba.conf line 91: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:54:36.383 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:54:36.384 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:54:36.384 EST > DETAIL:  Connection matched pg_hba.conf line 91: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:56:08.958 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:56:08.959 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:56:08.961 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:56:08.964 EST > LOG:  shutting down
+< 2017-11-19 05:56:08.977 EST > LOG:  database system is shut down
+< 2017-11-19 05:56:09.017 EST > LOG:  database system was shut down at 2017-11-19 05:56:08 EST
+< 2017-11-19 05:56:09.018 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:56:09.020 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:56:09.021 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:56:11.932 EST > LOG:  could not connect to Ident server at address "192.168.1.72", port 113: No route to host
+< 2017-11-19 05:56:11.932 EST > FATAL:  Ident authentication failed for user "postgres"
+< 2017-11-19 05:56:11.932 EST > DETAIL:  Connection matched pg_hba.conf line 92: "host    replication     postgres        192.168.1.72/32            ident"
+< 2017-11-19 05:57:38.766 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:57:38.767 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:57:38.767 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:57:38.773 EST > LOG:  shutting down
+< 2017-11-19 05:57:38.787 EST > LOG:  database system is shut down
+< 2017-11-19 05:57:38.816 EST > LOG:  database system was shut down at 2017-11-19 05:57:38 EST
+< 2017-11-19 05:57:38.817 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:57:38.819 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:57:38.819 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:57:46.172 EST > FATAL:  password authentication failed for user "postgres"
+< 2017-11-19 05:57:46.172 EST > DETAIL:  Password does not match for user "postgres".
+	Connection matched pg_hba.conf line 87: "host    replication      postgres       192.168.1.0/24            md5"
+< 2017-11-19 06:02:33.621 EST > ERROR:  relation "table1" does not exist at character 13
+< 2017-11-19 06:02:33.621 EST > STATEMENT:  insert into table1 (id) values (3);
+< 2017-11-19 06:11:03.481 EST > LOG:  received fast shutdown request
+< 2017-11-19 06:11:03.481 EST > LOG:  aborting any active transactions
+< 2017-11-19 06:11:03.483 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 06:11:03.484 EST > LOG:  shutting down
+< 2017-11-19 06:11:03.507 EST > LOG:  database system is shut down
+< 2017-11-19 06:11:03.544 EST > LOG:  database system was shut down at 2017-11-19 06:11:03 EST
+< 2017-11-19 06:11:03.545 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 06:11:03.547 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 06:11:03.547 EST > LOG:  autovacuum launcher started
+< 2017-11-19 06:48:48.703 EST > LOG:  received fast shutdown request
+< 2017-11-19 06:48:48.704 EST > LOG:  aborting any active transactions
+< 2017-11-19 06:48:48.706 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 06:48:48.707 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 06:48:48.823 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:48.823 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:48:49.022 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:49.022 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:48:49.131 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 06:48:50.030 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:50.030 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:48:50.030 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:48:50.037 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:50.037 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:48:51.045 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:51.045 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:48:52.059 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:48:52.059 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:48:52.059 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 06:48:52.073 EST > LOG:  database system is shut down
+< 2017-11-19 06:49:15.921 EST > LOG:  database system was shut down at 2017-11-19 06:48:49 EST
+< 2017-11-19 06:49:15.952 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 06:49:15.954 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 06:49:15.958 EST > LOG:  autovacuum launcher started
+sh: rsync: command not found
+< 2017-11-19 06:49:15.963 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:49:15.963 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:49:16.970 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:49:16.970 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:49:17.977 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:49:17.977 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:49:17.977 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:50:20.071 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:50:20.071 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:50:21.078 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:50:21.078 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:50:22.085 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:50:22.085 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:50:22.085 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:51:22.152 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:51:22.152 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:51:23.157 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:51:23.157 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:51:24.164 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:51:24.164 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:51:24.164 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 06:52:20.088 EST > LOG:  received fast shutdown request
+< 2017-11-19 06:52:20.088 EST > LOG:  aborting any active transactions
+< 2017-11-19 06:52:20.089 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 06:52:20.091 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 06:52:20.185 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:20.185 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:52:20.228 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:20.228 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:52:20.423 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 06:52:21.236 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:21.236 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:52:21.236 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:52:21.242 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:21.242 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:52:22.249 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:22.249 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:52:23.256 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:23.256 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:52:23.256 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 06:52:23.264 EST > LOG:  database system is shut down
+< 2017-11-19 06:52:23.309 EST > LOG:  database system was shut down at 2017-11-19 06:52:20 EST
+< 2017-11-19 06:52:23.310 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 06:52:23.313 EST > LOG:  autovacuum launcher started
+< 2017-11-19 06:52:23.313 EST > LOG:  database system is ready to accept connections
+sh: rsync: command not found
+< 2017-11-19 06:52:23.317 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:23.317 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:52:24.324 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:24.324 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:52:25.331 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:52:25.331 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:52:25.331 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:53:25.338 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:53:25.338 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:53:26.345 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:53:26.345 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:53:27.352 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:53:27.352 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:53:27.352 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:54:27.408 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:54:27.408 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:54:28.415 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:54:28.415 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:54:29.423 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:54:29.423 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:54:29.423 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:55:29.490 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:55:29.490 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:55:30.498 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:55:30.498 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:55:31.506 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:55:31.506 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:55:31.506 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:56:31.570 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:56:31.570 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:56:32.576 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:56:32.576 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:56:33.586 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:56:33.586 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:56:33.586 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:57:33.628 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:57:33.628 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:57:34.632 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:57:34.632 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:57:35.640 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:57:35.640 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:57:35.640 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:58:35.706 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:58:35.706 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:58:36.712 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:58:36.712 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:58:37.720 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:58:37.720 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:58:37.720 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 06:59:37.744 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:59:37.744 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:59:38.752 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:59:38.752 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 06:59:39.760 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 06:59:39.760 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 06:59:39.760 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:00:39.821 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:00:39.821 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:00:40.829 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:00:40.829 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:00:41.836 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:00:41.836 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:00:41.836 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:01:41.871 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:01:41.871 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:01:42.879 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:01:42.879 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:01:43.886 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:01:43.886 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:01:43.887 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:02:23.070 EST > LOG:  received fast shutdown request
+< 2017-11-19 07:02:23.071 EST > LOG:  aborting any active transactions
+< 2017-11-19 07:02:23.071 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 07:02:23.076 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 07:02:23.184 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:23.184 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:02:23.272 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:23.272 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:02:23.479 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 07:02:24.280 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:24.280 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:02:24.280 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:02:24.286 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:24.286 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:02:25.295 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:25.295 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:02:26.302 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:26.302 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:02:26.302 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:02:26.311 EST > LOG:  database system is shut down
+< 2017-11-19 07:02:26.355 EST > LOG:  database system was shut down at 2017-11-19 07:02:23 EST
+< 2017-11-19 07:02:26.356 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 07:02:26.359 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 07:02:26.359 EST > LOG:  autovacuum launcher started
+sh: rsync: command not found
+< 2017-11-19 07:02:26.362 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:26.362 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:02:27.369 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:27.369 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:02:28.375 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:02:28.375 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:02:28.376 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:03:28.389 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:03:28.389 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:03:29.397 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:03:29.397 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:03:30.407 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:03:30.407 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:03:30.407 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:04:30.435 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:04:30.435 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:04:31.444 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:04:31.444 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:04:32.451 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:04:32.451 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:04:32.451 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:05:32.506 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:05:32.506 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:05:33.513 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:05:33.513 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:05:34.521 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:05:34.521 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:05:34.521 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:06:34.588 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:06:34.588 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:06:35.595 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:06:35.595 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:06:36.604 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:06:36.604 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:06:36.604 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:07:36.645 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:07:36.645 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:07:37.653 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:07:37.653 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:07:38.661 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:07:38.661 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:07:38.661 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:08:38.692 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:08:38.692 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:08:39.699 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:08:39.699 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:08:40.707 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:08:40.707 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:08:40.707 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:09:40.773 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:09:40.773 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:09:41.781 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:09:41.781 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:09:42.789 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:09:42.789 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:09:42.789 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:10:42.830 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:10:42.830 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:10:43.838 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:10:43.838 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:10:44.845 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:10:44.845 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:10:44.845 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:11:44.912 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:11:44.912 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:11:45.921 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:11:45.921 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:11:46.927 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:11:46.927 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:11:46.927 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:12:46.980 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:12:46.980 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:12:47.987 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:12:47.987 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:12:48.995 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:12:48.995 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:12:48.996 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:13:49.062 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:13:49.062 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:13:50.070 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:13:50.070 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:13:51.077 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:13:51.077 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:13:51.077 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:14:51.092 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:14:51.092 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:14:52.099 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:14:52.099 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:14:53.107 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:14:53.107 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:14:53.107 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:15:53.140 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:15:53.140 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:15:54.148 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:15:54.148 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:15:55.155 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:15:55.155 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:15:55.155 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:16:55.220 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:16:55.220 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:16:56.228 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:16:56.228 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:16:57.235 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:16:57.235 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:16:57.235 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:17:57.304 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:17:57.304 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:17:58.308 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:17:58.308 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:17:59.317 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:17:59.317 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:17:59.317 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:18:59.362 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:18:59.362 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:19:00.369 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:19:00.369 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:19:01.377 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:19:01.377 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:19:01.377 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:19:29.179 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:19:29.179 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:19:30.186 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:19:30.186 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:19:31.196 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:19:31.196 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:19:31.196 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:20:31.214 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:20:31.214 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:20:32.221 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:20:32.221 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:20:33.228 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:20:33.228 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:20:33.229 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:21:33.297 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:21:33.297 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:21:34.303 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:21:34.303 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:21:35.317 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:21:35.317 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:21:35.317 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:22:35.382 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:35.382 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:22:36.389 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:36.389 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:22:37.398 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:37.398 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:22:37.399 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:22:48.635 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:48.635 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:22:49.643 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:49.643 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:22:50.652 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:22:50.652 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:22:50.652 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:23:50.680 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:23:50.680 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:23:51.688 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:23:51.688 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:23:52.698 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:23:52.698 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:23:52.698 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:24:16.784 EST > LOG:  received fast shutdown request
+< 2017-11-19 07:24:16.784 EST > LOG:  aborting any active transactions
+< 2017-11-19 07:24:16.786 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 07:24:16.791 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 07:24:16.902 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:16.902 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:16.984 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:16.984 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:24:17.281 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 07:24:17.991 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:17.991 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:24:17.991 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:24:17.997 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:17.997 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:19.000 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:19.000 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:20.007 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:20.007 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:24:20.007 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:24:20.015 EST > LOG:  database system is shut down
+< 2017-11-19 07:24:20.055 EST > LOG:  database system was shut down at 2017-11-19 07:24:16 EST
+< 2017-11-19 07:24:20.056 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 07:24:20.059 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 07:24:20.060 EST > LOG:  autovacuum launcher started
+sh: rsync: command not found
+< 2017-11-19 07:24:20.064 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:20.064 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:21.071 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:21.071 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:22.079 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:22.079 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:24:22.079 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:24:25.996 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:25.996 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:27.004 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:27.004 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:24:28.015 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:24:28.015 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:24:28.015 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:25:28.080 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:25:28.080 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:25:29.089 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:25:29.089 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:25:30.103 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:25:30.103 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:25:30.104 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:26:30.170 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:26:30.170 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:26:31.177 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:26:31.177 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:26:32.185 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:26:32.185 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:26:32.186 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:27:32.252 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:32.252 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:33.260 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:33.260 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:34.268 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:34.268 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:27:34.268 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:27:46.509 EST > LOG:  received fast shutdown request
+< 2017-11-19 07:27:46.509 EST > LOG:  aborting any active transactions
+< 2017-11-19 07:27:46.512 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 07:27:46.516 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 07:27:46.616 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:46.616 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:46.670 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:46.670 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:27:46.866 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 07:27:47.679 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:47.679 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:27:47.679 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:27:47.685 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:47.685 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:48.697 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:48.697 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:49.710 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:49.710 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:27:49.710 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:27:49.722 EST > LOG:  database system is shut down
+< 2017-11-19 07:27:49.792 EST > LOG:  database system was shut down at 2017-11-19 07:27:46 EST
+< 2017-11-19 07:27:49.793 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 07:27:49.797 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 07:27:49.798 EST > LOG:  autovacuum launcher started
+sh: rsync: command not found
+< 2017-11-19 07:27:49.804 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:49.804 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:50.815 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:50.815 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:27:51.821 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:27:51.821 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:27:51.822 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:28:51.888 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:28:51.888 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:28:52.895 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:28:52.895 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:28:53.902 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:28:53.902 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:28:53.902 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:29:53.953 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:29:53.953 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:29:54.960 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:29:54.960 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:29:55.966 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:29:55.966 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:29:55.966 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:30:09.339 EST > LOG:  received fast shutdown request
+< 2017-11-19 07:30:09.339 EST > LOG:  aborting any active transactions
+< 2017-11-19 07:30:09.341 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 07:30:09.344 EST > LOG:  shutting down
+sh: rsync: command not found
+< 2017-11-19 07:30:09.461 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:09.461 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:30:09.523 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:09.523 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:30:09.693 EST > FATAL:  the database system is shutting down
+sh: rsync: command not found
+< 2017-11-19 07:30:10.531 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:10.531 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:30:10.531 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:30:10.537 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:10.537 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:30:11.544 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:11.544 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:30:12.551 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:12.551 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:30:12.551 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:30:12.562 EST > LOG:  database system is shut down
+< 2017-11-19 07:30:12.601 EST > LOG:  database system was shut down at 2017-11-19 07:30:09 EST
+< 2017-11-19 07:30:12.606 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 07:30:12.610 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 07:30:12.611 EST > LOG:  autovacuum launcher started
+sh: rsync: command not found
+< 2017-11-19 07:30:12.614 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:12.614 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:30:13.621 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:13.621 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:30:14.629 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:30:14.629 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:30:14.629 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+sh: rsync: command not found
+< 2017-11-19 07:31:14.645 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:31:14.645 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:31:15.658 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:31:15.658 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+sh: rsync: command not found
+< 2017-11-19 07:31:16.666 EST > LOG:  archive command failed with exit code 127
+< 2017-11-19 07:31:16.666 EST > DETAIL:  The failed archive command was: rsync -a pg_xlog/000000010000000000000005 barman@192.168.1.73:/var/lib/barman/main-db-server/incoming/000000010000000000000005
+< 2017-11-19 07:31:16.666 EST > WARNING:  archiving transaction log file "000000010000000000000005" failed too many times, will try again later
+< 2017-11-19 07:33:06.533 EST > LOG:  restore point "barman_20171119T073302" created at 0/11000090
+< 2017-11-19 07:33:06.533 EST > STATEMENT:  SELECT pg_create_restore_point('barman_20171119T073302')
+< 2017-11-19 14:38:17.467 EST > LOG:  restore point "barman_20171119T143811" created at 0/130000C8
+< 2017-11-19 14:38:17.467 EST > STATEMENT:  SELECT pg_create_restore_point('barman_20171119T143811')

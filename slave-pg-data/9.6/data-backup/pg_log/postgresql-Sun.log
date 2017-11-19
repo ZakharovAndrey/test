@@ -1,0 +1,55 @@
+< 2017-11-19 05:06:41.381 EST > LOG:  database system was shut down at 2017-11-19 05:05:39 EST
+< 2017-11-19 05:06:41.389 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:06:41.394 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:06:41.394 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:12:10.907 EST > FATAL:  role "root" does not exist
+< 2017-11-19 05:15:20.039 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:15:20.040 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:15:20.042 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:15:20.043 EST > LOG:  shutting down
+< 2017-11-19 05:15:20.170 EST > LOG:  database system is shut down
+< 2017-11-19 05:15:45.602 EST > LOG:  database system was shut down at 2017-11-19 05:15:20 EST
+< 2017-11-19 05:15:45.678 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:15:45.681 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:15:45.683 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:17:13.933 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:17:13.934 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:17:13.935 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:17:13.952 EST > LOG:  shutting down
+< 2017-11-19 05:17:14.010 EST > LOG:  database system is shut down
+< 2017-11-19 05:18:24.034 EST > LOG:  database system was interrupted; last known up at 2017-11-19 05:17:40 EST
+< 2017-11-19 05:18:24.267 EST > LOG:  database system was not properly shut down; automatic recovery in progress
+< 2017-11-19 05:18:24.268 EST > LOG:  invalid record length at 0/155C1C0: wanted 24, got 0
+< 2017-11-19 05:18:24.268 EST > LOG:  redo is not required
+< 2017-11-19 05:18:24.279 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:18:24.282 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:18:24.282 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:18:44.117 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:18:44.119 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:18:44.119 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:18:44.121 EST > LOG:  shutting down
+< 2017-11-19 05:19:12.771 EST > LOG:  database system was shut down at 2017-11-19 05:18:44 EST
+< 2017-11-19 05:19:12.841 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:19:12.844 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:19:12.850 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:24:36.577 EST > LOG:  database system was interrupted; last known up at 2017-11-19 05:19:12 EST
+< 2017-11-19 05:24:36.847 EST > LOG:  database system was not properly shut down; automatic recovery in progress
+< 2017-11-19 05:24:36.850 EST > LOG:  invalid record length at 0/155C2A0: wanted 24, got 0
+< 2017-11-19 05:24:36.850 EST > LOG:  redo is not required
+< 2017-11-19 05:24:36.859 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:24:36.864 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:24:36.872 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:25:00.346 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:25:00.348 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:25:00.354 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:25:00.369 EST > LOG:  shutting down
+< 2017-11-19 05:25:00.428 EST > LOG:  database system is shut down
+< 2017-11-19 05:25:28.266 EST > LOG:  database system was shut down at 2017-11-19 05:25:00 EST
+< 2017-11-19 05:25:28.307 EST > LOG:  MultiXact member wraparound protections are now enabled
+< 2017-11-19 05:25:28.309 EST > LOG:  database system is ready to accept connections
+< 2017-11-19 05:25:28.312 EST > LOG:  autovacuum launcher started
+< 2017-11-19 05:40:59.293 EST > LOG:  received fast shutdown request
+< 2017-11-19 05:40:59.296 EST > LOG:  aborting any active transactions
+< 2017-11-19 05:40:59.296 EST > LOG:  autovacuum launcher shutting down
+< 2017-11-19 05:40:59.298 EST > LOG:  shutting down
+< 2017-11-19 05:40:59.313 EST > LOG:  database system is shut down
